@@ -3,6 +3,8 @@
 **Materia:** Ciencia de Datos | UADE  
 **Integrantes:**
 *   **[Adan Rodriguez]** - *[1174251]*
+*   **[Ivo Biscardi]** - *[1132206]*
+*   **[Conrado Bratti]** - *[1134447]*
 
 ---
 
